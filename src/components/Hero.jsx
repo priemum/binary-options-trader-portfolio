@@ -8,7 +8,7 @@ const Hero = () => {
         <p className='text-[#00df9a] font-bold p-2'>
           FINANCIAL FREEDOM THROUGH BINARY OPTIONS TRADING
         </p>
-        <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold md:py-6'>
+        <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold md:py-6'>        
           Unlock Your Financial Potential.
         </h1>
         <div className='flex justify-center items-center'>
